@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "type": "minecraft:item",
+            "item": "fvmod:basalt"
+        }
+    },
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:polished_basalt",
+        "count": 4
+    }
+}

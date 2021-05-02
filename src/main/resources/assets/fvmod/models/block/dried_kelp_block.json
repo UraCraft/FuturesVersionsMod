@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "fvmod:blocks/dried_kelp_side",
+        "top": "fvmod:blocks/dried_kelp_top",
+        "bottom": "fvmod:blocks/dried_kelp_bottom"
+    }
+}

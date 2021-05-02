@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "type": "minecraft:item_nbt",
+            "item": "minecraft:prismarine",
+            "data": 0
+        }
+    },
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:prismarine_stairs",
+        "count": 4
+    }
+}

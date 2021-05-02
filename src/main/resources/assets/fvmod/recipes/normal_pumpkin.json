@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "type": "minecraft:item",
+            "item": "minecraft:pumpkin_seeds"
+        },
+        {
+            "type": "minecraft:item",
+            "item": "minecraft:pumpkin"
+        }
+    ],
+    "result": {
+        "type": "minecraft:item",
+        "item": "fvmod:normal_pumpkin"
+    }
+
+}

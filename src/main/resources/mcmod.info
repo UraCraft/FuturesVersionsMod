@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fvmod",
+  "name": "Futures Versions Mod",
+  "description": "Mod which add blocks and items from futures versions.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LavaPowerMC"],
+  "credits": "MFF / Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,67 @@
+itemGroup.fvmod=Futures Version Mod
+
+tile.fvmod.normal_pumpkin.name=Normal Pumpkin
+tile.fvmod.prismarine_stairs.name=Prismarine Stairs
+tile.fvmod.prismarine_halfslab.name=Prismarine Slab
+tile.fvmod.kelp.name=Kelp
+tile.fvmod.dried_kelp_block.name=Dried Kelp Block
+tile.fvmod.barrel.name=Barrel
+tile.fvmod.blue_ice.name=Blue Ice
+tile.fvmod.fletching_table.name=Fletching Table
+tile.fvmod.smithing_table.name=Smithing Table
+tile.fvmod.basalt.name=Basalt
+tile.fvmod.polished_basalt.name=Polished Basalt
+tile.fvmod.ancient_debris.name=Ancient Debris
+tile.fvmod.netherite_block.name=Netherite Block
+tile.fvmod.crying_obsidian.name=Crying Obsidian
+tile.fvmod.stripped_oak_log.name=Stripped Oak Log
+tile.fvmod.stripped_oak_wood.name=Stripped Oak Wood
+tile.fvmod.stripped_spruce_log.name=Stripped Spruce Log
+tile.fvmod.stripped_spruce_wood.name=Stripped Spruce Wood
+tile.fvmod.stripped_jungle_log.name=Stripped Jungle Log
+tile.fvmod.stripped_jungle_wood.name=Stripped Jungle Wood
+tile.fvmod.stripped_birch_log.name=Stripped Birch Log
+tile.fvmod.stripped_birch_wood.name=Stripped Birch Wood
+tile.fvmod.stripped_acacia_log.name=Stripped Acacia Log
+tile.fvmod.stripped_acacia_wood.name=Stripped Acacia Wood
+tile.fvmod.stripped_dark_oak_log.name=Stripped Dark Oak Log
+tile.fvmod.stripped_dark_oak_wood.name=Stripped Dark Oak Wood
+
+item.fvmod.netherite_ingot.name=Netherite Ingot
+item.fvmod.netherite_scrap.name=Netherite Scrap
+item.fvmod.dried_kelp.name=Dried Kelp
+item.fvmod.netherite_sword.name=Netherite Sword
+item.fvmod.netherite_axe.name=Netherite Axe
+item.fvmod.netherite_pickaxe.name=Netherite Pickaxe
+item.fvmod.netherite_shovel.name=Netherite Shovel
+item.fvmod.netherite_hoe.name=Netherite Hoe
+item.fvmod.netherite_helmet.name=Netherite Helmet
+item.fvmod.netherite_chestplate.name=Netherite Chestplate
+item.fvmod.netherite_leggings.name=Netherite Leggings
+item.fvmod.netherite_boots.name=Netherite Boots
+
+fvmod.dead_coral_tube.name=Dead Tube Coral Block
+fvmod.dead_coral_brain.name=Dead Brain Coral Block
+fvmod.dead_coral_bubble.name=Dead Bubble Coral Block
+fvmod.dead_coral_fire.name=Dead Fire Coral BLock
+fvmod.dead_coral_horn.name=Dead Horn Coral Block
+
+fvmod.coral_tube.name=Tube Coral Block
+fvmod.coral_brain.name=Brain Coral Block
+fvmod.coral_bubble.name=Bubble Coral Block
+fvmod.coral_fire.name=Fire Coral Block
+fvmod.coral_horn.name=Horn Coral Block
+
+fvmod.dead_coral_bush_tube.name=Dead Tube Coral
+fvmod.dead_coral_bush_brain.name=Dead Brain Coral
+fvmod.dead_coral_bush_bubble.name=Dead Bubble Coral
+fvmod.dead_coral_bush_fire.name=Dead Fire Coral
+fvmod.dead_coral_bush_horn.name=Dead Horn Coral
+
+fvmod.coral_bush_tube.name=Tube Coral
+fvmod.coral_bush_brain.name=Brain Coral
+fvmod.coral_bush_bubble.name=Bubble Coral
+fvmod.coral_bush_fire.name=Fire Coral
+fvmod.coral_bush_horn.name=Horn Coral
+
+container.barrel=Barrel

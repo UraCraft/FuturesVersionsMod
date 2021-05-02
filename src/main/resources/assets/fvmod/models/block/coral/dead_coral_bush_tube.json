@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "fvmod:blocks/coral/dead_coral_bush_tube"
+    }
+}

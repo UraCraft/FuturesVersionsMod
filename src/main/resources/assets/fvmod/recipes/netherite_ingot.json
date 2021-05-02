@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##I",
+        "#II",
+        "#I "
+    ],
+    "key": {
+        "#": {
+            "type": "minecraft:item",
+            "item": "fvmod:netherite_scrap"
+        },
+        "I": {
+            "type": "minecraft:item",
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:netherite_ingot",
+        "count": 1
+    }
+}

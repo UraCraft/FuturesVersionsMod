@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "fvmod:fletching_table" },
+        "facing=south": { "model": "fvmod:fletching_table", "y": 180 },
+        "facing=west":  { "model": "fvmod:fletching_table", "y": 270 },
+        "facing=east":  { "model": "fvmod:fletching_table", "y": 90 }
+    }
+}

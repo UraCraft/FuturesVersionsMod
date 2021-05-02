@@ -1,0 +1,67 @@
+itemGroup.fvmod=Futures Version Mod
+
+tile.fvmod.normal_pumpkin.name=Citrouille Normale
+tile.fvmod.prismarine_stairs.name=Escalier en Prismarine
+tile.fvmod.prismarine_halfslab.name=Dalle en Prismarine
+tile.fvmod.kelp.name=Algue
+tile.fvmod.dried_kelp_block.name=Bloc d'Algue séchée
+tile.fvmod.barrel.name=Tonneau
+tile.fvmod.blue_ice.name=Glace bleue
+tile.fvmod.fletching_table.name=Table d'archerie
+tile.fvmod.smithing_table.name=Table de forgeron
+tile.fvmod.basalt.name=Basalte
+tile.fvmod.polished_basalt.name=Basalte Poli
+tile.fvmod.ancient_debris.name=Débris Antiques
+tile.fvmod.netherite_block.name=Bloc de Netherite
+tile.fvmod.crying_obsidian.name=Obsidienne Pleureuse
+tile.fvmod.stripped_oak_log.name=Bûche de Chêne Ecorcée
+tile.fvmod.stripped_oak_wood.name=Bois de Chêne Ecorcé
+tile.fvmod.stripped_spruce_log.name=Bûche de Sapin Ecorcée
+tile.fvmod.stripped_spruce_wood.name=Bois de Sapin Ecorcé
+tile.fvmod.stripped_jungle_log.name=Bûche d'Acajou Ecorcée
+tile.fvmod.stripped_jungle_wood.name=Bois d'Acajou Ecorcé
+tile.fvmod.stripped_birch_log.name=Bûche de Bouleau Ecorcée
+tile.fvmod.stripped_birch_wood.name=Bois de Bouleau Ecorcé
+tile.fvmod.stripped_acacia_log.name=Bûche d'Acacia Ecorcée
+tile.fvmod.stripped_acacia_wood.name=Bois d'Acacia Ecorcé
+tile.fvmod.stripped_dark_oak_log.name=Bûche de Chêne noir Ecorcée
+tile.fvmod.stripped_dark_oak_wood.name=Bois de Chêne noir Ecorcé
+
+item.fvmod.netherite_ingot.name=Lingot de Netherite
+item.fvmod.netherite_scrap.name=Fragments de Netherite
+item.fvmod.dried_kelp.name=Algue séchée
+item.fvmod.netherite_sword.name=Epée en Netherite
+item.fvmod.netherite_axe.name=Hache en Netherite
+item.fvmod.netherite_pickaxe.name=Pickaxe en Netherite
+item.fvmod.netherite_shovel.name=Pelle en Netherite
+item.fvmod.netherite_hoe.name=Houe en Netherite
+item.fvmod.netherite_helmet.name=Casque en Netherite
+item.fvmod.netherite_chestplate.name=Plastron en Netherite
+item.fvmod.netherite_leggings.name=Jambières en Netherite
+item.fvmod.netherite_boots.name=Bottes en Netherite
+
+fvmod.dead_coral_tube.name=Bloc de Corail Tubulaire Mort
+fvmod.dead_coral_brain.name=Bloc de Corail Cerveau Mort
+fvmod.dead_coral_bubble.name=Bloc de Corail Bulles Mort
+fvmod.dead_coral_fire.name=Bloc de Corail de Feu Mort
+fvmod.dead_coral_horn.name=Bloc de Corail Corné Mort
+
+fvmod.coral_tube.name=Bloc de Corail Tubulaire
+fvmod.coral_brain.name=Bloc de Corail Cerveau
+fvmod.coral_bubble.name=Bloc de Corail Bulles
+fvmod.coral_fire.name=Bloc de Corail de Feu
+fvmod.coral_horn.name=Bloc de Corail Corné
+
+fvmod.dead_coral_bush_tube.name=Corail Tubulaire Mort
+fvmod.dead_coral_bush_brain.name=Corail Cerveau Mort
+fvmod.dead_coral_bush_bubble.name=Corail Bulles Mort
+fvmod.dead_coral_bush_fire.name=Corail de Feu Mort
+fvmod.dead_coral_bush_horn.name=Corail Corné Mort
+
+fvmod.coral_bush_tube.name=Corail Tubulaire
+fvmod.coral_bush_brain.name=Corail Cerveau
+fvmod.coral_bush_bubble.name=Corail Bulles
+fvmod.coral_bush_fire.name=Corail de Feu
+fvmod.coral_bush_horn.name=Corail Corné
+
+container.barrel=Tonneau

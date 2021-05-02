@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=x": {
+            "model": "fvmod:basalt",
+            "x": 90,
+            "y": 90
+        },
+        "axis=y": {
+            "model": "fvmod:basalt"
+        },
+        "axis=z": {
+            "model": "fvmod:basalt",
+            "x": 90
+        }
+    }
+}

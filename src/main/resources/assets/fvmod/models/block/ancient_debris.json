@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "fvmod:blocks/ancient_debris_side",
+        "top": "fvmod:blocks/ancient_debris_top",
+        "bottom": "fvmod:blocks/ancient_debris_top"
+    }
+}

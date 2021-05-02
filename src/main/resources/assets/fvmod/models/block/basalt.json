@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "fvmod:blocks/basalt_top",
+        "side": "fvmod:blocks/basalt_side"
+    }
+}

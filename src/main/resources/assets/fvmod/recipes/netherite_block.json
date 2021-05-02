@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "type": "minecraft:item",
+            "item": "fvmod:netherite_ingot"
+        }
+    },
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:netherite_block",
+        "count": 1
+    }
+}

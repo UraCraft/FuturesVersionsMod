@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": {"model":  "fvmod:prismarine_doubleslab" }
+    }
+}

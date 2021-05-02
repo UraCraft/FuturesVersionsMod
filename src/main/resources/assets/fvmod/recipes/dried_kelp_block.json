@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "type": "minecraft:item",
+            "item": "fvmod:dried_kelp",
+            "data": 0
+        }
+    },
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:dried_kelp_block",
+        "count": 1
+    }
+}

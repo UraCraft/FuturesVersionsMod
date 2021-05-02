@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "II",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plankWood"
+        },
+        "I": {
+            "type": "minecraft:item",
+            "item": "minecraft:flint"
+        }
+    },
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:fletching_table",
+        "count": 1
+    }
+}

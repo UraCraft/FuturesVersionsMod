@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "type": "minecraft:item",
+            "item": "fvmod:netherite_block"
+        }
+    ],
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:netherite_ingot",
+        "count": 9
+    }
+
+}

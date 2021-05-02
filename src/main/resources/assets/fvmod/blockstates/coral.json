@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "variant=tube": {
+            "model": "fvmod:coral/coral_tube"
+        },
+        "variant=brain": {
+            "model": "fvmod:coral/coral_brain"
+        },
+        "variant=bubble": {
+            "model": "fvmod:coral/coral_bubble"
+        },
+        "variant=fire": {
+            "model": "fvmod:coral/coral_fire"
+        },
+        "variant=horn": {
+            "model": "fvmod:coral/coral_horn"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "fvmod:prismarine_halfslab_bottom" },
+        "half=top,variant=default": { "model": "fvmod:prismarine_halfslab_top" }
+    }
+}

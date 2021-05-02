@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "fvmod:blocks/coral/coral_bush_horn"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "fvmod:blocks/coral/dead_coral_bush_bubble"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "fvmod:blocks/barrel_side",
+        "top": "fvmod:blocks/barrel_top",
+        "bottom": "fvmod:blocks/barrel_bottom"
+    }
+}

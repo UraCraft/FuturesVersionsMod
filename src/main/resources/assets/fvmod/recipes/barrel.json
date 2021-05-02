@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#I#",
+        "# #",
+        "#I#"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plankWood"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "slabWood"
+        }
+    },
+    "result": {
+        "type": "minecraft:item_nbt",
+        "item": "fvmod:barrel",
+        "count": 1
+    }
+}

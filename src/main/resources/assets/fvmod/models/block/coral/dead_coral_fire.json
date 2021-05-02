@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "fvmod:blocks/coral/dead_coral_fire"
+    }
+}
